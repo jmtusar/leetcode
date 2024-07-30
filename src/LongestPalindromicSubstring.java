@@ -1,10 +1,5 @@
 /*
 5. Longest Palindromic Substring
-Solved
-Medium
-Topics
-Companies
-Hint
 Given a string s, return the longest
 palindromic
 
